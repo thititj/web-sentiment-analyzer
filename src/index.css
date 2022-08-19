@@ -1,0 +1,19 @@
+body,
+html {
+  font-family: "Noto Sans Thai", sans-serif;
+  background-color: rgb(75, 61, 180);
+  /*
+  background: linear-gradient(45deg, #7e58e9 30%, #00dcc3 90%);
+ 
+  min-height: 100%;
+  min-width: 1024px;
+
+ 
+  width: 100%;
+  height: auto;
+
+ 
+  position: fixed;
+  top: 0;
+  left: 0; */
+}
